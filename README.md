@@ -38,7 +38,6 @@ This README combines the patterns from broad AI directories, LLM app cookbooks, 
 - [Infrastructure, Deployment, and MLOps](#infrastructure-deployment-and-mlops)
 - [Benchmarks and Leaderboards](#benchmarks-and-leaderboards)
 - [Learning Resources](#learning-resources)
-- [Source Inspiration](#source-inspiration)
 
 ## LLM APIs and Model Providers
 
@@ -428,25 +427,3 @@ This README combines the patterns from broad AI directories, LLM app cookbooks, 
 | [r/LangChain](https://www.reddit.com/r/LangChain/) | Community for LangChain, LangGraph, and agent builders. |
 | [Hugging Face](https://huggingface.co/) | Models, datasets, Spaces, papers, and community resources. |
 | [Papers With Code](https://paperswithcode.com/) | Research papers connected to code and benchmarks. |
-
-## Source Inspiration
-
-This README was reworked from the sources listed in [list.txt](list.txt):
-
-- [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) for runnable app/template organization.
-- [awesome-ai-agents-2026](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026) and [awesome-ai-agents-2026](https://github.com/caramaschiHG/awesome-ai-agents-2026) for agent categories, orchestration, protocols, observability, and vertical agents.
-- [FMHY Artificial Intelligence](https://fmhy.net/ai) for practical AI site/tool indexing and local/self-hosted distinctions.
-- [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) for generative media, writing, search, and learning resources.
-- [awesome-ai](https://github.com/edwardtay/awesome-ai) for the decision guide, platform/API taxonomy, governance, infrastructure, and benchmarks.
-
-## Contributing
-
-Contributions are welcome. Good additions should be useful, actively maintained, and placed in the most specific category possible.
-
-Suggested entry style:
-
-```markdown
-| [Tool Name](https://example.com/) | Short, practical description of what it helps people do. |
-```
-
-Prefer tools, models, papers, templates, and learning resources that someone can evaluate or use directly. Mark archived, deprecated, or inactive projects when known.
