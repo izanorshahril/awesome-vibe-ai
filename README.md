@@ -17,6 +17,7 @@ This README combines patterns from broad AI directories, LLM app cookbooks, gene
   - [IDE and Editor Assistants](#ide-and-editor-assistants)
   - [Terminal and Autonomous Coding Agents](#terminal-and-autonomous-coding-agents)
 - [Agent Frameworks and Orchestration](#agent-frameworks-and-orchestration)
+- [Agent Skills and Plugins](#agent-skills-and-plugins)
 - [LLM Applications, Workflow Nodes, and Templates](#llm-applications-workflow-nodes-and-templates)
 - [Browser, Desktop, and Workflow Agents](#browser-desktop-and-workflow-agents)
   - [Browser and Computer Use](#browser-and-computer-use)
@@ -167,6 +168,7 @@ This README combines patterns from broad AI directories, LLM app cookbooks, gene
 | [OpenSquilla](https://github.com/opensquilla/opensquilla) | Open-source coding agent featuring multi-provider smart cost routing. |
 | [Pi](https://github.com/earendil-works/pi) | Open-source lightweight terminal coding agent architecture. |
 | [PR-Agent](https://github.com/qodo-ai/pr-agent) | Open-source AI pull request reviewer, doc generator, and code improver. |
+| [Prime Agent](https://github.com/PrimeIntellect-ai/prime-agent) | Open-source coding and research agent by Prime Intellect. |
 | [Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | DeepSeek-native agent tailored for reasoning and coding. |
 | [Roo Code](https://github.com/RooCodeInc/Roo-Code) | Open-source autonomous coding agent with specialized mode personas. |
 | [SWE-agent](https://github.com/SWE-agent/SWE-agent) | Open-source agent system for resolving real GitHub software engineering issues. |
@@ -198,6 +200,13 @@ This README combines patterns from broad AI directories, LLM app cookbooks, gene
 | [Pydantic AI](https://github.com/pydantic/pydantic-ai) | Type-safe Python agent framework built on Pydantic. |
 | [Smolagents](https://github.com/huggingface/smolagents) | Lightweight code-first Python agent library from Hugging Face. |
 | [Traycer](https://github.com/traycerai/traycer) | Open-source agent orchestration and workflow engine. |
+
+## Agent Skills and Plugins
+
+| Resource | Notes |
+| --- | --- |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Open-source agent skill collection for TDD, debugging, code review, and domain modeling. |
+| [pi-pstack skills](https://github.com/kkgogogo17/pi-pstack/tree/main/skills) | Open-source skill pack for the Pi coding agent stack. |
 
 ## LLM Applications, Workflow Nodes, and Templates
 
