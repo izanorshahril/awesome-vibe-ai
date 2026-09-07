@@ -205,8 +205,11 @@ This README combines patterns from broad AI directories, LLM app cookbooks, gene
 
 | Resource | Notes |
 | --- | --- |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Open-source agent skill collection for TDD, debugging, code review, and domain modeling. |
+| [Honey for Devs](https://github.com/Green-PT/honey-for-devs) | Token optimization and anti-verbosity skill designed to eliminate conversational filler and enforce compact execution. |
+| [I Have ADHD](https://github.com/ayghri/i-have-adhd) | Cognitive load reduction skill structuring outputs into action-first numbered steps with time estimates. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Curated agent workflows covering structured PRD generation (`to-spec`), ticket breakdowns, design interviews (`grill-me`), and TDD. |
 | [pi-pstack skills](https://github.com/kkgogogo17/pi-pstack/tree/main/skills) | Open-source skill pack for the Pi coding agent stack. |
+| [pstack](https://github.com/cursor/plugins/tree/main/plugins/pstack) | Deep-first workflow focusing on rigorous planning, verification maintenance, unslop code cleaning, and parallelized execution. |
 
 ## LLM Applications, Workflow Nodes, and Templates
 
